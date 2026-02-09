@@ -1,9 +1,7 @@
 streamlit
 nltk
-sklearn
+scikit-learn
 pandas
-requests
 numpy
+requests
 plotly
-stopwords
-punkt
